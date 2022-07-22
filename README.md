@@ -1,4 +1,4 @@
-# CLNet
+# CLNet(Geometry Matching)
 This repo contains code for ICCV 2021 paper [Progressive Correspondence Pruning by Consensus Learning](https://arxiv.org/abs/2101.00591).
 
 ## Acknowledgement
